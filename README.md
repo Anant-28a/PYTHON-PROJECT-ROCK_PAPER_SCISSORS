@@ -34,7 +34,7 @@ The project runs completely through the terminal and does not require a graphica
 * Git - Used for version control
 * GitHub - Used for storing and submitting the project repository
 
-No external Python libraries are required.
+
 
 ## 4. Installation and Running the Project
 
@@ -68,8 +68,6 @@ This project uses only Python's built-in `random` module.
 
 Therefore, no external packages need to be installed.
 
-There are no additional dependencies required to run the project.
-
 ### Step 4: Run the Project
 
 Run the following command:
@@ -98,9 +96,6 @@ Then select your choice:
 1. ROCK
 2. PAPER
 3. SCISSOR
-
-
-The computer will randomly select its choice and the result will be displayed.
 
 ### Game Rules
 
